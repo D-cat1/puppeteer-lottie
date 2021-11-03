@@ -71,7 +71,7 @@ module.exports = async (opts) => {
     style = { },
     inject = { },
     puppeteerOptions = { },
-    fps = 30,
+    fps = 15,
     background = 'transparent',
     ffmpegOptions = {
       crf: 20,
